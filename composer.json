@@ -1,0 +1,19 @@
+{
+    "name": "matthiasnoback/workshop-unit-testing",
+    "description": "Accompanying project for my PHPUnit workshop",
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthias Noback",
+            "email": "matthiasnoback@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
